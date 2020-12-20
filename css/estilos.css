@@ -1,8 +1,8 @@
 body
 {
-    color: black;
+    color: #333;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -15,7 +15,7 @@ body
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0. 5em;
+    padding: 0.5em;
 
 }
 
@@ -43,4 +43,12 @@ body
 #post
 {
     padding: 1em;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
